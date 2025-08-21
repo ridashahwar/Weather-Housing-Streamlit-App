@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 joblib
-plotly==5.13.0
+plotly
 scikit-learn
 streamlit-option-menu
 pystan==2.19.1.1

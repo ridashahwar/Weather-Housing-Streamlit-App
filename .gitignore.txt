@@ -1,0 +1,7 @@
+*.ipynb
+*.xlsx
+*.png
+house_prices.csv
+HouseListings-Top45Cities-10292023-kaggle.csv
+vancouver_issues.csv
+en_climate_daily_*.csv
