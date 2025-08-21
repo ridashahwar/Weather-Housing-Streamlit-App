@@ -1,0 +1,4 @@
+city,year,avg_dwelling_damage_percent,avg_poor_air_quality_percent,avg_heavy_rain_impact_percent,avg_long_power_loss_percent
+Calgary,2023,18.0,166.0,55.0,0.0
+Toronto,2023,36.0,111.0,87.0,0.0
+Vancouver,2023,0.0,138.0,42.0,0.0
